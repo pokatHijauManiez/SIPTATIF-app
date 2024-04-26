@@ -4,7 +4,7 @@
         "src": "/", "dest": "/"
       },
       {
-        "src": "/siptatif", "dest": "/"
+        "src": "/siptatif-web", "dest": "/"
       }
     ]
 }
